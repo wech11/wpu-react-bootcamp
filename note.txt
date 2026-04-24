@@ -1,0 +1,3 @@
+callback function : function yang di gunakan di dalam argument
+first call citizen : sebuah function yang dapat dideklarasikan sebagai variable serta dapat dikirim ke suatu function
+                     sebagai argumen
