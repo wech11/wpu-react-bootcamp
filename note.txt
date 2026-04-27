@@ -1,3 +1,29 @@
-callback function : function yang di gunakan di dalam argument
+callback function  : function yang di gunakan di dalam argument
 first call citizen : sebuah function yang dapat dideklarasikan sebagai variable serta dapat dikirim ke suatu function
                      sebagai argumen
+
+parameter  : variable penampung di function ex: function getData(parameter)
+argument   : variable ketika memanggil function ex: getData("argument")
+
+imperative  : menyatakan urutan detail dari suatu peristiwa atau perilaku yang terjadi
+deklarative : menyatakan peristiwa atau perilaku apa saja yang harusnya terjadi
+
+immutablity :   - mutable, bisa diubah
+                - immutable, tidak bisa diubah
+                - immutability adalaah kemampuan untuk tidak bisa mengubah
+                - nilai dari suatu variable yang diproses di dalam function tidak boleh berubah dari nilai awalnya 
+
+pure function : setidaknya mempunyai 1 argumen dan selalu mengembalikan nilai atau function
+
+data transformation : proses yang terjadi pada functional programming adalah mengubah data dari satu bentuk ke bentuk 
+                      lain
+
+high order function : - suatu function yang dapat mengelola atau memanipulasi function lain
+                      - function argumen atau nilai balikan (return) atau bisa jadi keduanya dalam satu function
+
+recursion : - teknik untuk memanggil function pada dirinya sendiri
+            - alternatif untuk melakukan looping
+            * teknik ini berguna untuk mengelola struktur data yang berjenjang (parent-childern), ex: fitur menu
+
+composition : - functional programming berfokus agar suatu function melakukan tugas spesifik
+              - terkadang, kita perlu untuk menggabungkan beberapa function tsb didalam function ini
